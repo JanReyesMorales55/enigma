@@ -20,8 +20,7 @@ def carregar_tot():
     r2 = rotors.carregar_rotor(2)
     r3 = rotors.carregar_rotor(3)
     return r1, r2, r3
-
-
+#comentario
 
 
 def avancar(pos, notch):
