@@ -21,7 +21,7 @@ def mostrar_menu():
         elif opcio == "3":                      # Si l'usuari escull la opcio 3 s'executara mostrar_menu_rotors()
             mostrar_menu_rotors()               
         elif opcio == "4":                      # Si l'usuari escull la opcio 4 es desplegara un missatge final i el programa finalitzara
-            print("\n[INFO] Esperem que t'hagi estat útil.")
+            print("\n[INFO] Esperem que t'hagi estat util.")
             print("[INFO] S'han generat els seguents fitxers: xifrat.txt, desxifrat.txt")
             break
         else:
