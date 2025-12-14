@@ -1,4 +1,4 @@
-# rotors.py - Gestiona la configuracio dels rotors
+# Es crea el fitxer rotors.py - Per gestionar la configuracio dels rotors
 
 alfabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"                      #Definim l'alfabet
 
