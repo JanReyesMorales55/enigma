@@ -1,4 +1,4 @@
-# enigma.py - Conte les funcions per xifrar i desxifrar
+# Es crea el fitxer enigma.py - El qual conte les funcions per xifrar i desxifrar
 import rotors               # Importa el modul extern que conte la configuracio dels rotors
 
 # Defineix l'alfabet constant que s'utilitzara per a les conversions
